@@ -1,2 +1,2 @@
 # Oracle_SQL
-Treinamento Oracle SQL
+Treinamento Oracle - SQL
